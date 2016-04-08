@@ -2,7 +2,7 @@
 <head>
 <title>Carcassonne...in SPACE</title>
 </head>
-<body
+<body>
 
 Hello world.
 </body>
